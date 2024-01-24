@@ -1,0 +1,13 @@
+<svg id="hamburger_menu" data-name="hamburger menu" xmlns="http://www.w3.org/2000/svg" width="159.56" height="98.781" viewBox="0 0 159.56 98.781">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M4384.18,160.936h153.57a3,3,0,0,1,3,3v13.407a3,3,0,0,1-3,3H4384.18a3,3,0,0,1-3-3V163.936A3,3,0,0,1,4384.18,160.936Z" transform="translate(-4381.19 -160.938)"/>
+  <path id="Rectangle_23_copy" data-name="Rectangle 23 copy" class="cls-1" d="M4384.18,201.125h153.57a3,3,0,0,1,3,3v13.407a3,3,0,0,1-3,3H4384.18a3,3,0,0,1-3-3V204.125A3,3,0,0,1,4384.18,201.125Z" transform="translate(-4381.19 -160.938)"/>
+  <path id="Rectangle_23_copy_2" data-name="Rectangle 23 copy 2" class="cls-1" d="M4384.18,240.313h153.57a3,3,0,0,1,3,3V256.72a3,3,0,0,1-3,3H4384.18a3,3,0,0,1-3-3V243.313A3,3,0,0,1,4384.18,240.313Z" transform="translate(-4381.19 -160.938)"/>
+</svg>
